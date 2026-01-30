@@ -1,4 +1,4 @@
-**Multi-Layer Perceptron (MLP)**
+*Multi-Layer Perceptron (MLP)*
 
 script includes He Initialization, ReLU/Sigmoid activations, Cross-Entropy Loss, and a Manual Training Loop.
 
