@@ -1,6 +1,7 @@
 script includes He Initialization, ReLU/Sigmoid activations, Cross-Entropy Loss, and a Manual Training Loop.
 
 
+OUTPUT
 ```
 ai@AI:~$ python3 mlp.py 
 Epoch 0 | Loss: 0.6539
