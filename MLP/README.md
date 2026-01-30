@@ -36,3 +36,8 @@ Epoch 200 | Loss: 0.1038
 Epoch 300 | Loss: 0.0759
 Epoch 400 | Loss: 0.0609
 ```
+Initial High Loss: At Epoch 0, the loss is high (around 0.7). This is because the model's weights are random—it is essentially "guessing" blindly.
+
+The "Learning" Phase: As the epochs progress, you’ll see the number decrease. This proves the Backpropagation is working; the model is successfully adjusting its weights to reduce the error.
+
+Convergence: By the end, the loss should be very low (near 0.0), meaning the model has "solved" the mathematical relationship in your random data.
